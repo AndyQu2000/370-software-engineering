@@ -10,3 +10,5 @@ ASSIGNMENT 5- UML DIAGRAM/"REMINDER" APP
 ASSIGNMENT 6-BLACK BOX TESTING
 
 ASSIGNMENT 7-WHITE BOX TESTING
+
+Team3 Project - Team project creating an functional android app "reminder" 
